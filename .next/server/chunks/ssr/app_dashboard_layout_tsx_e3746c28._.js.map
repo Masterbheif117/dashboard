@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file:///home/bilal/Desktop/smr25/Next_tut/nextjs-dashboard/app/dashboard/layout.tsx"],"sourcesContent":["import SideNav from '@/app/ui/dashboard/sidenav';\n\nexport default function Layout({ children }: { children: React.ReactNode }){\n    return \n}"],"names":[],"mappings":";;;AAEe,SAAS,OAAO,EAAE,QAAQ,EAAiC;IACtE;AACJ","debugId":null}}]
+}
