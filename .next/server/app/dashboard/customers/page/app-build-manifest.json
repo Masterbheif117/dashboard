@@ -1,19 +1,21 @@
 {
   "pages": {
     "/dashboard/customers/page": [
+      "static/chunks/node_modules_next_dist_675eb33a._.js",
+      "static/chunks/app_favicon_ico_mjs_4d3e6f60._.js",
       "static/chunks/app_ui_global_824c69a8.css",
-      "static/chunks/node_modules_next_dist_1a6ee436._.js",
-      "static/chunks/app_layout_tsx_c0237562._.js",
-      "static/chunks/_851a890b._.js",
+      "static/chunks/app_layout_tsx_d8cc6936._.js",
+      "static/chunks/_281f1e21._.js",
       "static/chunks/[next]_internal_font_google_323c5c77._.css",
-      "static/chunks/app_dashboard_layout_tsx_d4d51a2c._.js",
-      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_fd44f5a4._.js",
-      "static/chunks/node_modules_next_dist_compiled_2ce9398a._.js",
-      "static/chunks/node_modules_next_dist_client_8f19e6fb._.js",
-      "static/chunks/node_modules_next_dist_2ecbf5fa._.js",
+      "static/chunks/app_dashboard_layout_tsx_ab4660b8._.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_5a9ee987._.js",
+      "static/chunks/node_modules_next_dist_compiled_react-dom-experimental_375bf58e._.js",
+      "static/chunks/node_modules_next_dist_compiled_26b06edd._.js",
+      "static/chunks/node_modules_next_dist_client_bc2558f7._.js",
+      "static/chunks/node_modules_next_dist_f093785c._.js",
       "static/chunks/node_modules_@swc_helpers_cjs_00636ac3._.js",
       "static/chunks/_e69f0d32._.js",
-      "static/chunks/_93808211._.js"
+      "static/chunks/_1e6636a0._.js"
     ]
   }
 }

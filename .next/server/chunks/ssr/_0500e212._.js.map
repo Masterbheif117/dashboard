@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 5, "column": 0}, "map": {"version":3,"sources":["file:///home/bilal/Desktop/smr25/Next_tut/nextjs-dashboard/.next-internal/server/app/dashboard/customers/page/actions.js%20%28server%20actions%20loader%29"],"sourcesContent":["export {$$RSC_SERVER_ACTION_0 as '0015a8f3e9bef1f41b7d9f99d96a26ae06c7279afa'} from 'ACTIONS_MODULE0'\n"],"names":[],"mappings":";AAAA","debugId":null}},
+    {"offset": {"line": 53, "column": 0}, "map": {"version":3,"sources":["file:///home/bilal/Desktop/smr25/Next_tut/nextjs-dashboard/app/dashboard/customers/page.tsx"],"sourcesContent":["import { Metadata } from 'next';\n\nexport const metadata:Metadata = {\n  title: 'Customers',\n};\n\nexport default function Page() {\n  return <p>Customers Page</p>;\n}"],"names":[],"mappings":";;;;;;AAEO,MAAM,WAAoB;IAC/B,OAAO;AACT;AAEe,SAAS;IACtB,qBAAO,8OAAC;kBAAE;;;;;;AACZ","debugId":null}}]
+}

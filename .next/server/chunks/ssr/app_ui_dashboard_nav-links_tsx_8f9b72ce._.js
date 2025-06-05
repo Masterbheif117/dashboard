@@ -3,8 +3,6 @@ module.exports = {
 "[project]/app/ui/dashboard/nav-links.tsx [app-ssr] (ecmascript)": ((__turbopack_context__) => {
 "use strict";
 
-var { g: global, __dirname } = __turbopack_context__;
-{
 __turbopack_context__.s({
     "default": (()=>NavLinks)
 });
@@ -75,7 +73,7 @@ function NavLinks() {
         })
     }, void 0, false);
 }
-}}),
+}),
 
 };
 
